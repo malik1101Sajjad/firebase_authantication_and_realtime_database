@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "688225551522",
+    "project_id": "first-project-d58e9",
+    "storage_bucket": "first-project-d58e9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:688225551522:android:b9df4643aa96f6583f03fb",
+        "android_client_info": {
+          "package_name": "com.example.fluttet_firebase_projact"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCB-Y9Bw_MpsFsJeg4gsUOFtUzKDSilivQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
